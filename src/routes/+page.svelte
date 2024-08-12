@@ -55,7 +55,3 @@
     </TabItem>
   {/each}
 </Tabs>
-
-<pre>
-{JSON.stringify(tabItems)}
-</pre>
